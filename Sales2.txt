@@ -1,0 +1,22 @@
+Kavya,kavaya@gmail.com,98765432,1001,5 Star,4,5,20,Wed Aug  9 19:41:04 2023
+Kavana,kabvana@gmail.com,987654321,1002,BarOne,10,5,50,Wed Aug  9 19:43:57 2023
+Padaki,padaki@gmail.com,987654321,1003,Milky Bar,10,10,18.0,Wed Aug  9 19:45:48 2023
+Ram,ram@gmail,com,jhgf,1004,Chocolate cake,10,300,540.0,Wed Aug  9 19:47:05 2023
+kjhg,mnbvc,jhgf,1005,Blueberry Cake,15,500,7574.1375,Wed Aug  9 19:48:54 2023
+dfvfgt,fvg,fvg,1005,Blueberry Cake,10,500,5346.45,Wed Aug  9 19:51:24 2023
+jhbv ,jhgfc,ijuhb,1004,Chocolate cake,10,300,3564.3,Wed Aug  9 19:54:32 2023
+uyhg,yhgv,hb,1002,BarOne,10,5,59.405,Wed Aug  9 19:55:46 2023
+uyhgfvc,uhygvfc,98765,1005,Blueberry Cake,10,500,5346.45,Wed Aug  9 19:58:42 2023
+okijhbg,jhgv,jhgvf,1001,5 Star,10,5,59.405,Wed Aug  9 19:59:30 2023
+kjhgv,jhgf,jhgf,1001,5 Star,10,5,59.405,Wed Aug  9 20:00:43 2023
+jhgfvc,jhg,jhbgv,1002,BarOne,15,5,89.1075,Wed Aug  9 20:01:26 2023
+jhgfd/jhgfvc/jhgvc/1002/BarOne/10/5/59.405/Wed Aug  9 20:03:17 2023
+jhgfdsa/hgfcx/jhbv/1001/5 Star/10/5/59.405/Wed Aug  9 20:04:22 2023
+nn/nnj/nj/1001/5 Star/10/5/59.405/Wed Aug  9 20:26:05 2023
+lkjhgv/kjhgf\/nbvc/1001/5 Star/10/5/59.405/Wed Aug  9 20:27:09 2023
+kjhgfc/kjhv/jhgv/1001/5 Star/10/5/59.405/Wed Aug  9 20:33:18 2023
+Kanakachala/kanakachala@gmail.com/9980432381/1001/5 Star/4/5/23.762/Wed Aug  9 20:36:18 2023
+hgfc/nbvcx/hgfcd/1001/5 Star/10/5/59.405/Wed Aug  9 20:38:16 2023
+jhg/jhg/hv/1002/BarOne/10/5/5.31/Wed Aug  9 20:38:48 2023
+mnbvc/jhbgvc/gfds/1005/Blueberry Cake/10/500/5310.0/Wed Aug  9 20:39:57 2023
+
